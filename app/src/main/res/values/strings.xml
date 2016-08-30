@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DtvJNI</string>
+    <string name="dtv_and_fm_switch_tool">DTV and FM Switch Tool</string>
+    <string name="switch_to_dtv_ww">Switch To DTV_WW</string>
+    <string name="switch_to_fm">SWITCH TO FM</string>
+    <string name="switch_to_dtv_tw_jp">SWITCH TO DTV_TW/JP</string>
+    <string name="power_on">Power ON</string>
+    <string name="power_off">Power OFF</string>
+    <string name="message">Message:</string>
+</resources>
